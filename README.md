@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Diego Ribeiro
-- 🔭 Desenvolvedor Back-end
-- 🌱 Estudando React, React-native
+- 🔭 Desenvolvedor Front-end
+- 🌱 Estudando React, Flutter
 - 📫 Email: diribeiro740@gmail.com
 
  <div>
