@@ -8,7 +8,6 @@
   <picture>
   <source
     srcset="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DiRibeiro&theme=tokyonight"
-    media="(prefers-color-scheme: dark)"
   />
   </picture>
 </div>
