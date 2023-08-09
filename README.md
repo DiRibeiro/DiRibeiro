@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Diego Ribeiro
-- 🔭 Desenvolvedor Front-end
+- 🔭 Desenvolvedor Full-Stack
 - 🌱 Estudando React, Flutter
-- 📫 Email: diribeiro740@gmail.com
+- 📫 Email: diego.ribeiro740@outlook.com
 
  <div>
   <a href="https://github.com/DiRibeiro">
