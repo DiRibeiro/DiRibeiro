@@ -59,14 +59,14 @@ Substitua o usuário lbguilherme pelo seu usuário no GitHub.
 
 ### GitHub Stats ⚡
 <div>
-<a href="https://github.com/diribeiro">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diribeiro&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=diribeiro&show_icons=true&theme=dracula&include_all_commits=true&include_all_prs&count_private=true&show=reviews,discussions_started,discussions_answered"/>
+<a href="https://github.com/DiRibeiro">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiRibeiro&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=DiRibeiro&show_icons=true&theme=dracula&include_all_commits=true&include_all_prs&count_private=true&show=reviews,discussions_started,discussions_answered"/>
 </div>
 
 ### Entre em contato comigo! 📭
 <div>
-<a href="https://instagram.com/ribeirodiegobjj" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href="https://instagram.com/ribeirodiego.dev" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/diribeiro" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
