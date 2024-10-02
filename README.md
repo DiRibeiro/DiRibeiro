@@ -26,11 +26,11 @@ Node
 
 ### GitHub Stats ⚡
 <div>
-<p><img align="left" src="https://github.com/username=diribeiro&show_icons=true&locale=en&layout=compact" alt="diribeiro" /></p>
+<a href="http://www.github.com/diribeiro"><img src="https://github-readme-stats.vercel.app/api?username=diribeiro&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="DiRibeiro GitHub stats" /></a>
 
-<p>&nbsp;<img align="center" src="https://git-status-6kfx4kfsb-diribeiro-projects.vercel.app/api?username=diribeiro&show_icons=true&locale=en" alt="diribeiro" /></p>
+<a href="http://www.github.com/diribeiro"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=diribeiro&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=diribeiro&count_private=true" alt="diribeiro" /></p>
+<a href="https://github.com/diribeiro" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diribeiro&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 </div>
 
 ### Entre em contato comigo! 📭
