@@ -1,9 +1,7 @@
 # 👋 Oi, me chamo Diego Ribeiro
 
 ```js
-// 📄 perfil.js
-
-function apresentacaoDiegoRibeiro() {
+function DiegoRibeiro() {
   const nome = "Diego Ribeiro";
   const cargo = "Desenvolvedor Full Stack";
   const formacao = "IFRS - Campus Osório - Análise e Desenvolvimento de Sistemas";
