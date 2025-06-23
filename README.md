@@ -78,7 +78,7 @@ function apresentacaoDiegoRibeiro() {
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=diribeiro&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Estatísticas do GitHub" />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diribeiro&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens Mais Usadas" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diribeiro&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=3600" alt="Linguagens Mais Usadas" />
 </div>
 <div>
   <a href="https://instagram.com/ribeirodiego.dev" target="_blank">
