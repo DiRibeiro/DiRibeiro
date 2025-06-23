@@ -47,4 +47,4 @@ function apresentacaoDiegoRibeiro() {
 
 // 🚀 Execute para ver o perfil
 console.log(apresentacaoDiegoRibeiro());
-
+```
