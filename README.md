@@ -1,8 +1,5 @@
 # 👋 Oi, me chamo Diego Ribeiro
 
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=diribeiro&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Estatísticas do GitHub" /> <br /> <img src="https://github-readme-activity-graph.cyclic.app/graph?username=diribeiro&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="Gráfico de Atividade" /> <br /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diribeiro&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens Mais Usadas" /> </div>
-<div> <a href="https://instagram.com/ribeirodiego.dev" target="_blank"> <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" /> </a> <a href="https://www.linkedin.com/in/diribeiro" target="_blank"> <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> </div>
-
 ```js
 // 📄 perfil.js
 
@@ -46,6 +43,6 @@ function apresentacaoDiegoRibeiro() {
   };
 }
 
-// 🚀 Execute para ver o perfil
-console.log(apresentacaoDiegoRibeiro());
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=diribeiro&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Estatísticas do GitHub" /> <br /> <img src="https://github-readme-activity-graph.cyclic.app/graph?username=diribeiro&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="Gráfico de Atividade" /> <br /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diribeiro&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens Mais Usadas" /> </div>
+<div> <a href="https://instagram.com/ribeirodiego.dev" target="_blank"> <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" /> </a> <a href="https://www.linkedin.com/in/diribeiro" target="_blank"> <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> </div>
 ```
