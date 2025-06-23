@@ -10,49 +10,49 @@ function apresentacaoDiegoRibeiro() {
   const atual = "Desenvolvedor Full Stack @ GB Insurance Group LTDA";
 
   const tecnologias = {
-  linguagens: [
-    "JavaScript",
-    "TypeScript",
-    "Dart",
-    "Java"
-  ],
-  frameworks_bibliotecas: [
-    "React",
-    "Next.js",
-    "Redux",
-    "Node.js",
-    "Express",
-    "NestJS",
-    "Flutter",
-    "Sass",
-    "Tailwind CSS",
-    "Chart.js"
-  ],
-  testes: [
-    "Jest",
-    "Cypress"
-  ],
-  bancos_de_dados: [
-    "MongoDB",
-    "PostgreSQL",
-    "SQLite"
-  ],
-  cloud_e_infraestrutura: [
-    "AWS",
-    "Docker",
-    "Heroku",
-    "DigitalOcean"
-  ],
-  ferramentas: [
-    "Git",
-    "Postman",
-    "Linux",
-    "Bash",
-    "Figma",
-    "Firebase",
-    "HTML5",
-    "CSS3"
-  ]
+    linguagens: [
+      "JavaScript",
+      "TypeScript",
+      "Dart",
+      "Java"
+    ],
+    frameworks_bibliotecas: [
+      "React",
+      "Next.js",
+      "Redux",
+      "Node.js",
+      "Express",
+      "NestJS",
+      "Flutter",
+      "Sass",
+      "Tailwind CSS",
+      "Chart.js"
+    ],
+    testes: [
+      "Jest",
+      "Cypress"
+    ],
+    bancos_de_dados: [
+      "MongoDB",
+      "PostgreSQL",
+      "SQLite"
+    ],
+    cloud_e_infraestrutura: [
+      "AWS",
+      "Docker",
+      "Heroku",
+      "DigitalOcean"
+    ],
+    ferramentas: [
+      "Git",
+      "Postman",
+      "Linux",
+      "Bash",
+      "Figma",
+      "Firebase",
+      "HTML5",
+      "CSS3"
+    ]
   };
 
 
