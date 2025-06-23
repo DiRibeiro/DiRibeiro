@@ -9,26 +9,58 @@ function apresentacaoDiegoRibeiro() {
   const formacao = "IFRS - Campus Osório - Análise e Desenvolvimento de Sistemas";
   const atual = "Desenvolvedor Full Stack @ GB Insurance Group LTDA";
 
-  const tecnologias = [
-    "AWS", "Bash", "Chart.js", "CSS3", "Dart", "Docker", "Express", "Figma",
-    "Firebase", "Flutter", "Git", "Heroku", "HTML5", "JavaScript", "Jest",
-    "Linux", "MongoDB", "NestJS", "Next.js", "Node.js", "PostgreSQL",
-    "Postman", "React", "Redux", "Sass", "SQLite", "Tailwind CSS", "TypeScript"
-  ];
+  const tecnologias = {
+  linguagens: [
+    "JavaScript",
+    "TypeScript",
+    "Dart",
+    "Java"
+  ],
+  frameworks_bibliotecas: [
+    "React",
+    "Next.js",
+    "Redux",
+    "Node.js",
+    "Express",
+    "NestJS",
+    "Flutter",
+    "Sass",
+    "Tailwind CSS",
+    "Chart.js"
+  ],
+  testes: [
+    "Jest",
+    "Cypress"
+  ],
+  bancos_de_dados: [
+    "MongoDB",
+    "PostgreSQL",
+    "SQLite"
+  ],
+  cloud_e_infraestrutura: [
+    "AWS",
+    "Docker",
+    "Heroku",
+    "DigitalOcean"
+  ],
+  ferramentas: [
+    "Git",
+    "Postman",
+    "Linux",
+    "Bash",
+    "Figma",
+    "Firebase",
+    "HTML5",
+    "CSS3"
+  ]
+  };
 
-  const estudandoAtualmente = ["React", "Node.js", "Next.js"];
+
+  const estudando = ["React", "Node.js", "Next.js", "Flutter"];
 
   const redesSociais = {
     instagram: "https://instagram.com/ribeirodiego.dev",
     linkedin: "https://www.linkedin.com/in/diribeiro"
-  };
-
-  const mostrarStatusGitHub = () => {
-    return {
-      stats: "https://github-readme-stats.vercel.app/api?username=diribeiro",
-      languages: "https://github-readme-stats.vercel.app/api/top-langs/?username=diribeiro",
-      commits: "https://github-readme-activity-graph.cyclic.app/graph?username=diribeiro"
-    };
   };
 
   return {
@@ -38,8 +70,7 @@ function apresentacaoDiegoRibeiro() {
     atual,
     tecnologias,
     estudandoAtualmente,
-    redesSociais,
-    githubStats: mostrarStatusGitHub()
+    redesSociais
   };
 }
 ```
